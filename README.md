@@ -1,1 +1,1 @@
-# prog2-java
+# PROG2-java
